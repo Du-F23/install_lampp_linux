@@ -1,5 +1,5 @@
 ## Welcome to my repository to ease LAMPP installation for novice users or to save labor
-[To go to the Spanish version click here](https://github.com/Du-F23/install_lampp_linux/)
+[To go to the Spanish version click here](https://github.com/Du-F23/install_lampp_linux/blob/master/REAME.ES.MD)
 To install we will execute the file install_lampp_linux.sh.\
 To execute it is very simple, we verify if you have execution permissions.\
 We will use the following command
